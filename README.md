@@ -1,3 +1,6 @@
 # LOGIN-UI
-This is my second Assignment 
-I have added all the screenshots in the same section named SCREENSHOTS.pdf
+second Assignment 
+![](login.jpeg)
+![](image1.png)
+![](image2.png)
+![](image3.png)
